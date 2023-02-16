@@ -1,4 +1,4 @@
-import express from 'experss';
+import express from 'express';
 
 import { getPosts, createPost } from '../controllers/posts.js'
 
